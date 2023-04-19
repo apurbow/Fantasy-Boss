@@ -6,10 +6,10 @@
 <h1 align="center">Hi 👋, I'm Fantasy Boss. 😎</h1>
 <h3 align="center">A passionate Full-stack Web Developer, among other things. 👀</h3>
 <br>
-
-- 📫 How to reach me **apurbo.kumar.official@gmail.com**
-- ⚡ Fun fact **I'm a total wizard when it comes to anything computer-related, except for one tiny little detail... hardware. Let's just say, if my computer were a patient, I'd be the doctor who's afraid of needles.**
-
+<ul>
+  <li>📫 How to reach me - <b><a href="mailto:apurbo.kumar.official@gmail.com">apurbo.kumar.official@gmail.com</a></b> </li>
+  <li>⚡ Fun fact **I'm a total wizard when it comes to anything computer-related, except for one tiny little detail... hardware. Let's just say, if my computer were a patient, I'd be the doctor who's afraid of needles.** </li>
+</ul>
 <br>
 <h2 align="center">Languages and Tools</h2>
 <div style="display: flex; ">
