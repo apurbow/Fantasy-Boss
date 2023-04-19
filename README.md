@@ -6,10 +6,10 @@
 <h1 align="center">Hi 👋, I'm Fantasy Boss. 😎</h1>
 <h3 align="center">A passionate Full-stack Web Developer, among other things. 👀</h3>
 <br>
-<ul>
-  <li>📫 How to reach me - <b><a href="mailto:apurbo.kumar.official@gmail.com">apurbo.kumar.official@gmail.com</a></b> </li>
-  <li>⚡ Fun fact **I'm a total wizard when it comes to anything computer-related, except for one tiny little detail... hardware. Let's just say, if my computer were a patient, I'd be the doctor who's afraid of needles.** </li>
-</ul>
+  <ul>
+    <li>📫 How to reach me - <b><a href="mailto:apurbo.kumar.official@gmail.com">apurbo.kumar.official@gmail.com</a></b> </li>
+    <li>⚡ Fun fact - <b>I'm a total wizard when it comes to anything computer-related, except for one tiny little detail... hardware. Let's just say, if my computer were a patient, I'd be the doctor who's afraid of needles.</b> </li>
+  </ul>
 <br>
 <h2 align="center">Languages and Tools</h2>
 <div style="display: flex; ">
@@ -84,12 +84,13 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
   </div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasy-boss&show_icons=true&locale=en&layout=compact" alt="fantasy-boss"/>
 </div>
   
 <br>
 
-<div align="center" style="display: inline-block;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy-boss" alt="fantasy-boss" width="40%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fantasy-boss&show_icons=true&locale=en" alt="fantasy-boss" width="40%"/>
+<br>
+<h2 align="center">Github Stats</h2>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy-boss" alt="fantasy-boss" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasy-boss&show_icons=true&locale=en&layout=compact" alt="fantasy-boss" width="34%"/>
 </div>
