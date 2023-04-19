@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img align="center" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" height=50%/> 
+  <img align="center" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" height="50%"/> 
 </p>
 <h1 align="center">Hi 👋, I'm Fantasy Boss. 😎</h1>
 <h3 align="center">A passionate Full-stack Web Developer, among other things. 👀</h3>
@@ -85,7 +85,7 @@
 <br>
 
 <div align="center" style="display: inline-block;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy-boss" alt="fantasy-boss" width=50%/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fantasy-boss&show_icons=true&locale=en" alt="fantasy-boss" width=50%/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy-boss" alt="fantasy-boss" width="50%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fantasy-boss&show_icons=true&locale=en" alt="fantasy-boss" width="50%"/>
   [//]: <> (<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasy-boss&show_icons=true&locale=en&layout=compact" alt="fantasy-boss"/>)
 </div>
