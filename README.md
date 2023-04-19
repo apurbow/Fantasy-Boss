@@ -1,9 +1,9 @@
+<img align="center" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" width="40" height="40"/> 
 <h1 align="center">Hi 👋, I'm Fantasy Boss. 😎</h1>
 <h3 align="center">A passionate Full-stack Web Developer, among other things. 👀</h3>
 <br>
 
 - 📫 How to reach me **apurbo.kumar.official@gmail.com**
-
 - ⚡ Fun fact **I'm a total wizard when it comes to anything computer-related, except for one tiny little detail... hardware. Let's just say, if my computer were a patient, I'd be the doctor who's afraid of needles.**
 
 <br>
@@ -83,5 +83,7 @@
 <br>
 
 <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy-boss" alt="fantasy-boss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fantasy-boss&show_icons=true&locale=en" alt="fantasy-boss" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasy-boss&show_icons=true&locale=en&layout=compact" alt="fantasy-boss" />
 </p>
