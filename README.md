@@ -74,15 +74,6 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
     </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
   </div>
 </div>
   
@@ -91,6 +82,6 @@
 <br>
 <h2 align="center">Github Stats</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy-boss" alt="fantasy-boss" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fantasy-boss&show_icons=true&locale=en&layout=compact" alt="fantasy-boss" width="34%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apurbow" alt="apurbow" width="40%"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=apurbow&show_icons=true&locale=en&layout=compact" alt="apurbow" width="34%"/>
 </div>
